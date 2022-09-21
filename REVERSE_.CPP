@@ -12,7 +12,7 @@ r=num%10; //4
 num=num/10; //123
 sum=sum*10+r;  //4
 }
-printf("Sum of digits = %ld",sum);
+printf("Reverse digits = %ld",sum);
 getch();
 
 }
